@@ -1,10 +1,10 @@
 ### Hi there, I'm Sriprad - aka [procub3r](https://procub3r.github.io) 👋
 
 ## I'm a student, and a passionate programmer!
-- 🔭 I’m currently working on a Neural Network library in C++
+- 🔭 I’m currently playing with SDL2 in C++
 - 🌱 I’m currently learning C++
 - :goal_net: Goals for 2021:
-  - Research deep learning
+  - Research deep learning and computer graphics
   - Learn the x86 Instruction Set Architecture
   - Finish my book (more on that soon)!
 - ⚡ Fun facts:
