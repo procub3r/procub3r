@@ -1,7 +1,7 @@
 ### Hi there, I'm Sriprad - aka [procub3r](https://procub3r.github.io) 👋
 
 ## I'm a student, and a passionate programmer!
-- 🔭 I’m currently Entity Component Systems in C
+- 🔭 I’m currently playing with [Entity Component Systems in C](https://github.com/arrow-interactive/quiver)
 - 🌱 I’m currently learning C
 - :goal_net: Goals for 2021:
   - Research deep learning and computer graphics
